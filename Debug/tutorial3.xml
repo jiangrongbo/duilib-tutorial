@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window   sizebox="4,4,6,6" size="800,600" >
+    <VerticalLayout name="MainLayout"   >  
+		<HorizontalLayout name="Content" bkcolor="#FFFF0000"> 
+		   <Button float="true" name="CloseBtn" text="关闭按钮" bkcolor="#FF0000FF" width="150" height="50" pos="200,300,0,0"  >
+		   </Button> 
+        </HorizontalLayout> 
+    </VerticalLayout>
+</Window>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Duilib">
+      <UniqueIdentifier>{5eeea792-9341-4f91-8b00-c4429b5b27df}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\DuiLib\stb_image.c">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\StdAfx.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIActiveX.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIBase.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UICombo.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UICommonControls.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIContainer.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIControl.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIDelegate.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIDlgBuilder.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIlib.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIList.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIManager.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIMarkup.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIRender.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\UIRichEdit.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DuiLib\XUnzip.cpp">
+      <Filter>Duilib</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\DuiLib\StdAfx.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIActiveX.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIBase.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UICombo.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UICommonControls.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIContainer.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIControl.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIDelegate.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIDlgBuilder.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIlib.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIList.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIManager.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIMarkup.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIRender.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DuiLib\UIRichEdit.h">
+      <Filter>Duilib</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

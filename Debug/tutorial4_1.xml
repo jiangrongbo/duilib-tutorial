@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="432,320"> 
+    <TabLayout name="MainLayout">
+ 
+    </TabLayout>
+</Window>

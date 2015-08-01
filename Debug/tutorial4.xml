@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="432,320" sizebox="4,4,6,6" caption="0,0,0,30">
+	<Font name="宋体" size="12"  />
+	<Font name="宋体" size="26"  />
+    <VerticalLayout name="MainLayout"  bkimage="bg.png">
+         <HorizontalLayout height="30"> 
+			<HorizontalLayout>
+				<Text text="QQ旋风"  padding="30,12,0,0" textcolor="#FFFF0000" height="30" align="center"   font="0"  ></Text>
+			</HorizontalLayout>
+			<HorizontalLayout width="80"  >
+				 <Button name="MinBtn" width="28" height="17" padding="0,2,0,0" normalimage="file='max_min.png' source='0,0,28,17' dest='0,0,28,17' "  hotimage="file='max_min_h.png' source='0,0,28,17' dest='0,0,28,17" ></Button>
+				 <Button name="CloseBtn" width="28" height="17" padding="0,2,0,0" normalimage="file='max_min.png' source='28,0,56,17' dest='0,0,28,17' "  hotimage="file='max_min_h.png' source='28,0,56,17' dest='0,0,28,17'" ></Button>
+			</HorizontalLayout>
+		 </HorizontalLayout>
+		 <HorizontalLayout >
+		 </HorizontalLayout>
+    </VerticalLayout>
+</Window>
